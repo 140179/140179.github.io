@@ -1,7 +1,8 @@
 Bienvenido a mi página web!!
+
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Página de prueba
+description: Bienvenido a mi página web!!
 
 
 
